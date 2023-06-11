@@ -3,7 +3,7 @@
 
 
 
-# Refrences 
+# References 
 
 [The PNG Structure](https://www.w3.org/TR/PNG-Structure.html)
 
